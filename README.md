@@ -1,2 +1,2 @@
-# proyecto1-pr-logo
+# proyecto1-prologo
 proyecto de prueba 1
